@@ -79,11 +79,13 @@ main {
 }
 .weather-value {
   font-size: 80px;
+  font-weight: 600;
 }
 
 .weather-unit {
   margin-top: 20px;
   font-size: 20px;
+  font-weight: bold;
 }
 footer {
   border-top: 1px solid #add2c9;
