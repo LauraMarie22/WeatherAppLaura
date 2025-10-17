@@ -65,7 +65,7 @@ main {
 }
 
 .weather-details strong {
-  color: #ff7e67;
+  color: #f5c181;
   font-weight: 400px;
 }
 .weather-temperature {
@@ -109,7 +109,7 @@ main {
 
 .weather-forecast-temperatures {
   text-align: center;
-  color: #ff7e67;
+  color: #f5c181;
   margin-top: 15px;
   display: flex;
   justify-content: center;
