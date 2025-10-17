@@ -29,7 +29,6 @@ function formatDate(date) {
     "Thursday",
     "Friday",
     "Saturday",
-    "Sunday",
   ];
   let day = days[date.getDay()];
 
